@@ -500,25 +500,25 @@
 			background-image:url(../images/avatar.png);
 		}
 		#alex{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/alex.jpg);
 		}
 		#abraham{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/abraham.jpg);
 		}
 		#anderson{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/avatar.jpg);
 		}
 		#german{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/avatar.jpg);
 		}
 		#julian{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/julian.jpg);
 		}
 		#ismael{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/ismael.jpg);
 		}
 		#ivan{
-			background-image:url(../images/avatar.png);
+			background-image:url(../images/ivan.jpg);
 		}
 
 			.im.avatar img {
@@ -1097,7 +1097,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/longtop.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
