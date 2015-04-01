@@ -625,6 +625,41 @@
 					top: 0;
 					width: 2.5em;
 				}
+				p.feature-icons {
+					list-style: none;
+					padding-left: 0;
+					text-align: center;
+				}
+
+				p.feature-icons span{
+					text-decoration: none;
+					display: inline-block;
+					margin: 0 2em 1.6875em 0;
+					padding: 0.35em 0 0 3.5em;
+					position: relative;
+					
+				}
+				p.feature-icons span:before{
+					-moz-osx-font-smoothing: grayscale;
+					-webkit-font-smoothing: antialiased;
+					font-family: FontAwesome;
+					font-style: normal;
+					font-weight: normal;
+					text-transform: none !important;
+				}
+				p.feature-icons span:before{
+					background: #52d3c2;
+					border-radius: 100%;
+					color: #ffffff;
+					display: block;
+					height: 2.5em;
+					left: 0;
+					line-height: 2.5em;
+					position: absolute;
+					text-align: center;
+					top: 0;
+					width: 2.5em;
+				}
 
 		ul.icons {
 			cursor: default;
