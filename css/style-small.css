@@ -128,3 +128,22 @@
 			font-size: 14px;
 			width: 44px;
 		}
+
+/* Team */
+
+.im.avatar {
+			width: 7.5em;
+			height: 7.5em;
+			margin: 0 0.5em;
+			background-size:7.5em;
+		}
+	.team p{
+				font-size: 0.8em;
+				color: #fff;
+				padding-top: 2.5em;
+				text-align: center;
+			}
+			.team p span{
+				font-weight: bolder;
+				font-size: 1.5em;
+			}
